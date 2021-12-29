@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasmin Fernandes Silva
 - 👀 I’m interested in Chemical Engeneering, French and other languages, movies, music and various instruments, my cats and learning how to code.
-- 🌱 I’m currently learning  Python.
+- 🌱 I’m currently learning  Python, C#, JS and React.
 - 💞️ I’m looking to collaborate on anything related to Chemical Engeneering and coding.
 - 📫 How to reach me: yasmin_fs@outlook.com.
 
